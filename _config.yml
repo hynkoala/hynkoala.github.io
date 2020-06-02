@@ -2,8 +2,9 @@
 title: Koala
 subtitle: Personal space.
 # welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+# description: Vno Jekyll is a port of my Ghost theme vno.
+description: Blogs from hynkoala showing his ideas.
+# creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "https://hynkoala.github.io/#blog"
 
@@ -37,7 +38,7 @@ comment:
     
 # Social
 social:
-    weibo: Hynkoala
+    #weibo: Hynkoala
     github: Hynkoala
     #twitter: onevcat
     #gplus: 107108267983477358170
